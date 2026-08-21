@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Front-end Developer focused on creating intuitive interfaces and innovative solutions.
+I'm a passionate software developer focused on creating intuitive interfaces and innovative solutions.
 
 
 ## 🌐 Socials:
